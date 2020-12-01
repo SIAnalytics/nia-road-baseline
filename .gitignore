@@ -1,0 +1,6 @@
+.env
+__pycache__
+.vscode/
+logs/
+weights/
+submits/
